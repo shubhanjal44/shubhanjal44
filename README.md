@@ -18,7 +18,7 @@ Full Stack Developer with 1+ years of experience building scalable web applicati
 - 🌱 Learning **AWS, Docker, and System Design**
 - 💡 Interested in **Full Stack Development, API Architecture, and Cloud Technologies**
 - 📫 Reach me at **shubhanjalsharma@gmail.com**
-- 📍 Based in **Agra, Uttar Pradesh, India**
+- 📍 Based in **Aligarh, Uttar Pradesh, India**
 
 ## 💻 Tech Stack
 
